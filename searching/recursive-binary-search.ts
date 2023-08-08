@@ -23,3 +23,6 @@ const search = (
 };
 const arr=[1,3,5,6,8,9,19]
 console.log(recursiveBinarySearch(arr,1))
+
+//? Time complexity - O(log n)
+//? Space complexity - O(log n)
